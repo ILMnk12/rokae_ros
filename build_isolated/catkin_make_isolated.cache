@@ -1,0 +1,2 @@
+XME7:rokae_bringup:rokae_demo:rokae_description:rokae_gazebo:rokae_hardware:rokae_msgs:rokae_xMateCR7_moveit_config:rokae_xMateER3p_moveit_config:rokae_xMateER7_moveit_config:rokae_xMateER7p_moveit_config:rokae_xMateSR4_moveit_config
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/ubuntu/caktin_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/ubuntu/caktin_ws/install_isolated

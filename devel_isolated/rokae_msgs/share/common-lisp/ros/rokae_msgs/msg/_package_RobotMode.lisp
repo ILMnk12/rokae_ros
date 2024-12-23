@@ -1,0 +1,16 @@
+(cl:in-package rokae_msgs-msg)
+(cl:export '(TIMESTAMP-VAL
+          TIMESTAMP
+          IS_ROBOT_CONNECTED-VAL
+          IS_ROBOT_CONNECTED
+          IS_REAL_ROBOT_ENABLED-VAL
+          IS_REAL_ROBOT_ENABLED
+          IS_ROBOT_POWER_ON-VAL
+          IS_ROBOT_POWER_ON
+          IS_ROBOT_RUNNING-VAL
+          IS_ROBOT_RUNNING
+          IS_PROGRAM_RUNNING-VAL
+          IS_PROGRAM_RUNNING
+          IS_EMERGENCY_STOPPED-VAL
+          IS_EMERGENCY_STOPPED
+))

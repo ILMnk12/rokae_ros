@@ -1,0 +1,12 @@
+controller_list:
+  - name: /velocity_joint_trajectory_controller
+    action_ns: velocity_controllers
+    type: JointTrajectoryController
+    default: True
+    joints:
+      - joint1
+      - joint2
+      - joint3
+      - joint4
+      - joint5
+      - joint6
